@@ -11,8 +11,6 @@ void setup(){
   showData();
 }
 
-void draw(){
-}
 
 void showData(){
   float y = 15;
